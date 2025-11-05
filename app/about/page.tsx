@@ -1,12 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, Sparkles } from "lucide-react";
+import { Sparkles } from "lucide-react";
 
 import { useLanguage } from "@/components/providers/language-provider";
-import { Button } from "@/components/ui/button";
-
-const CONTACT_EMAIL = "hello@bible-timeline.dev";
 
 export default function AboutPage() {
   const { dictionary } = useLanguage();

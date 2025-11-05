@@ -33,6 +33,7 @@ type TimelineTranslations = {
   scripture: string;
   backToList: string;
   overviewTitle: string;
+  detailHeading: string;
   reflectPrompt: string;
 };
 
@@ -91,6 +92,7 @@ const dictionaries: Record<LanguageKey, Translations> = {
       scripture: "Scripture",
       backToList: "Back to timeline",
       overviewTitle: "Event Overview",
+      detailHeading: "Event Narrative",
       reflectPrompt:
         "Continue exploring this event by reflecting on how God's story invites you into faithful response today."
     },
@@ -138,6 +140,7 @@ const dictionaries: Record<LanguageKey, Translations> = {
       scripture: "经文",
       backToList: "返回时间线",
       overviewTitle: "事件概览",
+      detailHeading: "事件详述",
       reflectPrompt: "继续默想这一事件，思想神的故事如何邀请我们今天做出忠心的回应。"
     },
     about: {

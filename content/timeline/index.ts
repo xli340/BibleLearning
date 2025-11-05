@@ -6,6 +6,7 @@ export type TimelineEventContent = {
   title: string;
   headline: string;
   summary: string;
+  detail: string;
   takeaways: string[];
   scripture: string[];
 };

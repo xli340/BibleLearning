@@ -62,6 +62,14 @@ export function EventDetailView({ event }: EventDetailViewProps) {
                 {dictionary.timeline.overviewTitle}
               </h2>
               <p className="leading-relaxed text-foreground">{translation.summary}</p>
+              <div className="space-y-3">
+                <h3 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
+                  {dictionary.timeline.detailHeading}
+                </h3>
+                <p className="leading-relaxed text-foreground sm:text-base">
+                  {translation.detail}
+                </p>
+              </div>
               <div className="space-y-4">
                 <h3 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
                   {dictionary.timeline.keyThemes}
