@@ -1,0 +1,412 @@
+[
+  {
+    "id": "creation",
+    "period": "Genesis Beginnings",
+    "range": "Creation",
+    "location": {
+      "en": "Garden of Eden",
+      "zh": "伊甸园"
+    },
+    "content": {
+      "en": {
+        "title": "Creation and Humanity's Calling",
+        "headline": "God speaks the cosmos into being and entrusts His image-bearers to cultivate it.",
+        "summary": "The opening chapters of Genesis introduce God as the sovereign Creator who forms a good and ordered world. Humanity is fashioned in His image to steward creation and dwell in fellowship with Him.",
+        "takeaways": [
+          "Creation is purposeful, reflecting God's wisdom and goodness.",
+          "Human dignity flows from bearing God's image and sharing His mission.",
+          "Sabbath rest anchors rhythm and worship in the created order."
+        ],
+        "scripture": [
+          "Genesis 1:1-2",
+          "Genesis 1:26-28",
+          "Genesis 2:1-3"
+        ]
+      },
+      "zh": {
+        "title": "创造与人的使命",
+        "headline": "上帝以话语创造万物，并托付祂的形象承担者治理世界。",
+        "summary": "创世记开篇显明上帝是至高的创造主，祂以次序和美善造了世界。人按着上帝的形象被造，要管理受造界，并与上帝亲密同行。",
+        "takeaways": [
+          "创造充满目的，彰显上帝的智慧与良善。",
+          "人的尊严源于承载上帝的形象，并参与祂的使命。",
+          "安息日成为创造秩序中敬拜与休息的节奏。"
+        ],
+        "scripture": [
+          "创世记 1:1-2",
+          "创世记 1:26-28",
+          "创世记 2:1-3"
+        ]
+      }
+    }
+  },
+  {
+    "id": "abraham",
+    "period": "Patriarchs",
+    "range": "ca. 2100 BC",
+    "location": {
+      "en": "Ur → Canaan",
+      "zh": "吾珥 → 迦南"
+    },
+    "content": {
+      "en": {
+        "title": "Call of Abram and the Covenant Promise",
+        "headline": "God elects Abram and promises blessing for all nations through his family.",
+        "summary": "Abram is invited to leave his homeland and trust God's promise of land, offspring, and blessing. The covenant with Abram marks the beginning of God's redemptive people.",
+        "takeaways": [
+          "Faith responds to God's voice even when the destination is unknown.",
+          "God's mission has always envisioned the blessing of every nation.",
+          "Covenant relationship binds God and His people in steadfast love."
+        ],
+        "scripture": [
+          "Genesis 12:1-3",
+          "Genesis 15:5-6",
+          "Genesis 17:1-8"
+        ]
+      },
+      "zh": {
+        "title": "亚伯兰的呼召与盟约应许",
+        "headline": "上帝拣选亚伯兰，透过他的家族赐福万国。",
+        "summary": "亚伯兰被呼召离开本地本族，相信上帝关于土地、后裔与祝福的应许。与亚伯兰所立的约，标志着上帝救赎群体的起头。",
+        "takeaways": [
+          "信心是回应上帝的呼召，即便前路未明也愿意踏上旅程。",
+          "上帝的使命从起初就指向万国得福。",
+          "盟约关系使上帝与祂的子民连结于永不止息的慈爱。"
+        ],
+        "scripture": [
+          "创世记 12:1-3",
+          "创世记 15:5-6",
+          "创世记 17:1-8"
+        ]
+      }
+    }
+  },
+  {
+    "id": "exodus",
+    "period": "Exodus & Wilderness",
+    "range": "ca. 1446 BC",
+    "location": {
+      "en": "Egypt → Sinai",
+      "zh": "埃及 → 西奈"
+    },
+    "content": {
+      "en": {
+        "title": "Exodus and the Sinai Covenant",
+        "headline": "The Lord redeems Israel from slavery and forms them into a covenant nation at Sinai.",
+        "summary": "Through mighty signs, God delivers Israel from Pharaoh, leading them through the sea and into freedom. At Sinai, He reveals His law and establishes a covenant identity centred on worship and justice.",
+        "takeaways": [
+          "Salvation is liberation into a new way of life with God.",
+          "The law reveals God's character and guides redeemed community.",
+          "God's presence among His people is the heart of the covenant."
+        ],
+        "scripture": [
+          "Exodus 3:7-10",
+          "Exodus 14:21-22",
+          "Exodus 19:4-6"
+        ]
+      },
+      "zh": {
+        "title": "出埃及与西奈之约",
+        "headline": "耶和华拯救以色列脱离奴役，并在西奈山建立盟约之民。",
+        "summary": "上帝借着大能神迹使以色列人脱离法老，领他们经过红海进入自由。在西奈山，神赐下律法，建立以敬拜与公义为核心的盟约身份。",
+        "takeaways": [
+          "拯救意味着进入与神同行的新生活方式。",
+          "律法显明上帝的品格，引导蒙救赎的群体生活。",
+          "神与百姓同住是盟约的核心。"
+        ],
+        "scripture": [
+          "出埃及记 3:7-10",
+          "出埃及记 14:21-22",
+          "出埃及记 19:4-6"
+        ]
+      }
+    }
+  },
+  {
+    "id": "kingdom",
+    "period": "United Monarchy",
+    "range": "ca. 1050-930 BC",
+    "location": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷"
+    },
+    "content": {
+      "en": {
+        "title": "Davidic Kingdom and Worship",
+        "headline": "God establishes David's throne and centres Israel's worship in Jerusalem.",
+        "summary": "Israel unites under David, who captures Jerusalem and brings the ark into the city. God promises an enduring dynasty, while David prepares for Solomon to build the temple.",
+        "takeaways": [
+          "Leadership after God's heart shepherds people toward worship.",
+          "The Davidic covenant fuels hope for a righteous eternal King.",
+          "True security flows from God's presence, not military strength."
+        ],
+        "scripture": [
+          "2 Samuel 7:12-16",
+          "Psalm 23",
+          "Psalm 132:13-18"
+        ]
+      },
+      "zh": {
+        "title": "大卫王国与敬拜中心",
+        "headline": "上帝坚定大卫的王位，使以色列的敬拜以耶路撒冷为中心。",
+        "summary": "以色列在大卫手下统一，他攻取耶路撒冷并迎接约柜进入圣城。神应许赐下永远的王朝，大卫也预备所罗门建造圣殿。",
+        "takeaways": [
+          "合乎神心意的领导带领百姓归向敬拜。",
+          "大卫之约成为盼望公义永恒君王的根基。",
+          "真正的安全来自神的同在，而不是军事力量。"
+        ],
+        "scripture": [
+          "撒母耳记下 7:12-16",
+          "诗篇 23 篇",
+          "诗篇 132:13-18"
+        ]
+      }
+    }
+  },
+  {
+    "id": "exile",
+    "period": "Exile",
+    "range": "586 BC",
+    "location": {
+      "en": "Jerusalem → Babylon",
+      "zh": "耶路撒冷 → 巴比伦"
+    },
+    "content": {
+      "en": {
+        "title": "Fall of Jerusalem and Babylonian Exile",
+        "headline": "Judah's rebellion leads to Jerusalem's destruction, yet prophetic hope endures.",
+        "summary": "After centuries of idolatry and injustice, Babylon conquers Jerusalem. The temple is destroyed and leaders are exiled. Prophets like Jeremiah and Ezekiel announce both judgment and future restoration.",
+        "takeaways": [
+          "Ignoring God's covenant warnings leads to devastating consequences.",
+          "Even in exile, God remains present and speaks through His prophets.",
+          "Hope of a new covenant arises amid discipline and loss."
+        ],
+        "scripture": [
+          "2 Kings 25:8-11",
+          "Jeremiah 29:10-14",
+          "Ezekiel 36:24-28"
+        ]
+      },
+      "zh": {
+        "title": "耶路撒冷陷落与被掳",
+        "headline": "犹大背叛盟约导致圣城被毁，但先知仍宣告盼望。",
+        "summary": "在长期的偶像崇拜与不义之后，巴比伦攻陷耶路撒冷。圣殿被毁，领袖被掳。耶利米、以西结等先知在审判中同时宣告复兴的应许。",
+        "takeaways": [
+          "无视神的警戒将招致严重后果。",
+          "即使身处被掳之地，神仍与子民同在并发声。",
+          "在管教与失落中，新约的盼望逐渐显明。"
+        ],
+        "scripture": [
+          "列王纪下 25:8-11",
+          "耶利米书 29:10-14",
+          "以西结书 36:24-28"
+        ]
+      }
+    }
+  },
+  {
+    "id": "return",
+    "period": "Second Temple",
+    "range": "538-444 BC",
+    "location": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷"
+    },
+    "content": {
+      "en": {
+        "title": "Return from Exile and Temple Rebuilding",
+        "headline": "God stirs hearts to rebuild the temple, renew the covenant, and await Messiah.",
+        "summary": "Persia allows Jewish exiles to return. Under leaders like Zerubbabel, Ezra, and Nehemiah, the temple and Jerusalem's walls are restored, and the people recommit to God’s law.",
+        "takeaways": [
+          "God can move empires to fulfil His restorative purposes.",
+          "Community renewal requires both worship and justice.",
+          "Anticipation grows for the promised anointed ruler."
+        ],
+        "scripture": [
+          "Ezra 1:1-5",
+          "Nehemiah 8:8-12",
+          "Haggai 2:6-9"
+        ]
+      },
+      "zh": {
+        "title": "归回与圣殿重建",
+        "headline": "上帝感动人心重建圣殿，更新盟约，等待弥赛亚。",
+        "summary": "波斯允许犹太人归回。所罗巴伯、以斯拉、尼希米等带领民众重建圣殿和城墙，并重新立约遵行神的律法。",
+        "takeaways": [
+          "神能动摇帝国以成就祂复兴的旨意。",
+          "群体的更新需要敬拜与公义并重。",
+          "人们对所应许的受膏者怀抱更深的期待。"
+        ],
+        "scripture": [
+          "以斯拉记 1:1-5",
+          "尼希米记 8:8-12",
+          "哈该书 2:6-9"
+        ]
+      }
+    }
+  },
+  {
+    "id": "birth",
+    "period": "Gospels",
+    "range": "4-1 BC",
+    "location": {
+      "en": "Bethlehem",
+      "zh": "伯利恒"
+    },
+    "content": {
+      "en": {
+        "title": "Birth of Jesus the Messiah",
+        "headline": "The eternal Word becomes flesh, fulfilling centuries of prophetic hope.",
+        "summary": "Jesus is born to Mary in Bethlehem by the Holy Spirit. Angels announce peace, shepherds worship, and Simeon blesses the child as the light for all nations.",
+        "takeaways": [
+          "God enters human history with humility and glory intertwined.",
+          "Jesus fulfills promises to David and Abraham.",
+          "The incarnation reveals God's nearness to the marginalized."
+        ],
+        "scripture": [
+          "Luke 2:10-14",
+          "Luke 2:25-32",
+          "Micah 5:2"
+        ]
+      },
+      "zh": {
+        "title": "弥赛亚耶稣的降生",
+        "headline": "永恒的道成了肉身，成就历代先知的盼望。",
+        "summary": "耶稣因圣灵感孕，由马利亚在伯利恒生下。天使宣告大喜的信息，牧人敬拜，西面称这孩子为万民的光。",
+        "takeaways": [
+          "上帝进入历史，谦卑与荣耀并行。",
+          "耶稣成全对大卫和亚伯拉罕的应许。",
+          "道成肉身彰显神亲近卑微之人。"
+        ],
+        "scripture": [
+          "路加福音 2:10-14",
+          "路加福音 2:25-32",
+          "弥迦书 5:2"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ministry",
+    "period": "Gospels",
+    "range": "AD 27-30",
+    "location": {
+      "en": "Galilee & Judea",
+      "zh": "加利利与犹太"
+    },
+    "content": {
+      "en": {
+        "title": "Jesus Announces the Kingdom of God",
+        "headline": "Through teaching, miracles, and compassion, Jesus reveals the kingdom breaking in.",
+        "summary": "Jesus proclaims the kingdom, heals the sick, forgives sins, and forms disciples. His parables and Sermon on the Mount unveil the ethics of a renewed humanity.",
+        "takeaways": [
+          "The kingdom is present wherever Jesus reigns and restores.",
+          "Following Jesus means embodying upside-down kingdom values.",
+          "Miracles serve as signs pointing to deeper spiritual renewal."
+        ],
+        "scripture": [
+          "Mark 1:14-15",
+          "Matthew 5:1-10",
+          "Luke 4:18-19"
+        ]
+      },
+      "zh": {
+        "title": "耶稣宣告神的国",
+        "headline": "耶稣借着教导、神迹与怜悯显明临到的国度。",
+        "summary": "耶稣宣讲神国福音，医治疾病、赦免罪孽并栽培门徒。祂的比喻与登山宝训揭示更新人性的国度伦理。",
+        "takeaways": [
+          "神国临到之处，就是耶稣掌权并带来复原之处。",
+          "跟随耶稣意味着活出颠覆世俗的国度价值。",
+          "神迹是指向深层属灵更新的记号。"
+        ],
+        "scripture": [
+          "马可福音 1:14-15",
+          "马太福音 5:1-10",
+          "路加福音 4:18-19"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cross",
+    "period": "Passion",
+    "range": "AD 30",
+    "location": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷"
+    },
+    "content": {
+      "en": {
+        "title": "Crucifixion and Resurrection",
+        "headline": "Jesus bears sin on the cross and rises victorious, defeating death.",
+        "summary": "Jesus dies during Passover, the perfect Lamb offering Himself for humanity. On the third day, He rises, appearing to many witnesses and inaugurating new creation.",
+        "takeaways": [
+          "The cross reveals God's justice and love intertwined.",
+          "Resurrection is the cornerstone of Christian hope.",
+          "Believers are invited into a restored relationship with God."
+        ],
+        "scripture": [
+          "Isaiah 53:4-6",
+          "John 19:30",
+          "1 Corinthians 15:3-6"
+        ]
+      },
+      "zh": {
+        "title": "十字架与复活",
+        "headline": "耶稣担当罪孽被钉十字架，并胜过死亡复活。",
+        "summary": "逾越节期间，耶稣如同无瑕疵的羔羊为世人献上自己。第三日祂从死里复活，向众多见证人显现，开启新创造。",
+        "takeaways": [
+          "十字架显明上帝的公义与慈爱彼此交织。",
+          "复活是基督信仰盼望的基石。",
+          "信徒得以进入与神和好的新关系。"
+        ],
+        "scripture": [
+          "以赛亚书 53:4-6",
+          "约翰福音 19:30",
+          "哥林多前书 15:3-6"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pentecost",
+    "period": "Early Church",
+    "range": "AD 30",
+    "location": {
+      "en": "Jerusalem",
+      "zh": "耶路撒冷"
+    },
+    "content": {
+      "en": {
+        "title": "Pentecost and the Spirit-Empowered Church",
+        "headline": "The Holy Spirit fills believers, launching a global witness to Jesus.",
+        "summary": "On Pentecost, the Spirit descends on the disciples, enabling bold proclamation in many languages. Thousands believe, forming a vibrant community marked by teaching, fellowship, and generosity.",
+        "takeaways": [
+          "The Spirit empowers the church for mission and unity.",
+          "Church life flourishes through shared worship, care, and witness.",
+          "God's promise extends to every generation and nation."
+        ],
+        "scripture": [
+          "Acts 2:1-4",
+          "Acts 2:38-39",
+          "Acts 2:42-47"
+        ]
+      },
+      "zh": {
+        "title": "五旬节与圣灵充满的教会",
+        "headline": "圣灵降临门徒，开启向万国作见证的使命。",
+        "summary": "五旬节那天，圣灵降临在门徒身上，使他们用多种语言勇敢传讲。三千人信主，建立以教导、团契与慷慨为标志的活泼群体。",
+        "takeaways": [
+          "圣灵赋予教会完成使命并活出合一。",
+          "教会生活在敬拜、关怀与见证中蓬勃发展。",
+          "神的应许临到各世代、各民族。"
+        ],
+        "scripture": [
+          "使徒行传 2:1-4",
+          "使徒行传 2:38-39",
+          "使徒行传 2:42-47"
+        ]
+      }
+    }
+  }
+]
