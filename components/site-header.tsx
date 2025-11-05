@@ -4,6 +4,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { Menu } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import type { Route } from "next";
 import * as React from "react";
 
 import { LanguageSwitcher } from "@/components/language-switcher";
@@ -21,7 +22,9 @@ export function SiteHeader() {
   const { dictionary } = useLanguage();
   const pathname = usePathname();
 
-  const navItems = React.useMemo(
+  type NavItem = { href: Route; label: string };
+
+  const navItems = React.useMemo<NavItem[]>(
     () => [
       { href: "/", label: dictionary.nav.timeline },
       { href: "/people", label: dictionary.nav.people },
