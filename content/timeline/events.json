@@ -1,51 +1,94 @@
 [
   {
-    "id": "creation",
-    "period": "Genesis Beginnings",
-    "range": "Creation",
+    "id": "genesis_creation_fall",
+    "period": "Genesis",
+    "range": "Creation – Early Humanity",
     "location": {
-      "en": "Garden of Eden",
-      "zh": "伊甸园"
+      "en": "Eden → Early World",
+      "zh": "伊甸园 → 早期世界"
     },
     "content": {
       "en": {
-        "title": "Creation and Humanity's Calling",
-        "headline": "God speaks the cosmos into being and entrusts His image-bearers to cultivate it.",
-        "summary": "The opening chapters of Genesis introduce God as the sovereign Creator who forms a good and ordered world. Humanity is fashioned in His image to steward creation and dwell in fellowship with Him.",
-        "detail": "Genesis 1–2 unfolds a rhythm of God's creative word shaping light, sky, seas, land, and life until the seventh-day rest crowns creation. Humans—male and female—are set apart as divine image-bearers, invited to reflect God's character, cultivate Eden's garden, and extend His blessing throughout the earth. The narrative highlights partnership with God, the sacredness of work and rest, and the promise of unbroken communion in His presence.",
+        "title": "Creation, Human Calling, and the Fall",
+        "headline": "God creates a good world, calls humans to rule with Him, and humanity falls into sin.",
+        "summary": "In Genesis 1–3, God forms a good and ordered creation and makes humans in His image to rule and care for the earth. Adam and Eve disobey God in Eden, bringing sin, brokenness, and death into the world, yet God promises a future offspring who will crush the serpent.",
         "takeaways": [
-          "Creation is purposeful, reflecting God's wisdom and goodness.",
-          "Human dignity flows from bearing God's image and sharing His mission.",
-          "Sabbath rest anchors rhythm and worship in the created order."
+          "Creation is good and purposeful, shaped by God's wisdom.",
+          "Humanity is made to reflect God's character and steward creation.",
+          "Sin breaks fellowship with God, but hope of redemption appears from the beginning."
         ],
         "scripture": [
-          "Genesis 1:1-2",
+          "Genesis 1:1-3",
           "Genesis 1:26-28",
-          "Genesis 2:1-3"
-        ]
+          "Genesis 3:14-15"
+        ],
+        "detail": "In the beginning, God spoke light into darkness and order into chaos. Mountains rose, seas formed, and life filled the earth by His word. Among all creation, humanity was unique—made in God’s own image, given the task to rule and care for the earth. Adam and Eve walked in perfect fellowship with their Creator, their world full of peace and beauty. But the serpent whispered doubt: 'Did God really say...?' Tempted by pride and desire, they disobeyed, and innocence shattered. Sin entered the world like a poison, corrupting all it touched. Yet even in judgment, God’s mercy spoke—He promised a descendant who would crush the serpent’s head and restore what was lost. The story of redemption had begun."
       },
       "zh": {
-        "title": "创造与人的使命",
-        "headline": "上帝以话语创造万物，并托付祂的形象承担者治理世界。",
-        "summary": "创世记开篇显明上帝是至高的创造主，祂以次序和美善造了世界。人按着上帝的形象被造，要管理受造界，并与上帝亲密同行。",
-        "detail": "创世记第一、二章以七日的节奏描述创造：神的言语使光、穹苍、海洋、陆地与万物各就其位，最后赐下安息日为圣。神按自己的形象造男造女，让他们治理、耕耘伊甸园，并在地上扩展祂的祝福。故事强调与神合作的使命、工作与安息的神圣秩序，以及与造物主亲密相交的应许。",
+        "title": "创造、人类使命与堕落",
+        "headline": "上帝创造美好世界，托付人一同管理，人却因犯罪而堕落。",
+        "summary": "在创世记1–3章，上帝以次序和美善创造万物，并按自己的形象造人，使人管理大地、照管受造界。亚当与夏娃在伊甸园违背命令，罪与死亡进入世界，但上帝同时应许将来有女子的后裔要击碎蛇的头，带来拯救。",
         "takeaways": [
-          "创造充满目的，彰显上帝的智慧与良善。",
-          "人的尊严源于承载上帝的形象，并参与祂的使命。",
-          "安息日成为创造秩序中敬拜与休息的节奏。"
+          "创造本是美好有目的的，彰显上帝的智慧。",
+          "人被造是要反映上帝的品格，治理与看顾世界。",
+          "罪破坏人与神的关系，但救赎的盼望从起初就被应许。"
         ],
         "scripture": [
-          "创世记 1:1-2",
+          "创世记 1:1-3",
           "创世记 1:26-28",
-          "创世记 2:1-3"
-        ]
+          "创世记 3:14-15"
+        ],
+        "detail": "起初，神开口说话，光就驱散了黑暗，天地因祂的言语而成。群山升起，江河流淌，生命在大地上繁盛。在所有受造物中，人最为特别——照着神的形象被造，被托付治理和看顾全地。亚当与夏娃与神同行，伊甸园里充满和平与喜乐。然而，蛇的声音悄悄进入，他们被诱惑去怀疑神的善意。那一刻的不顺服，使罪与死亡进入世界。失落笼罩了创造，但神没有放弃。祂在咒诅中应许，女人的后裔将来要击碎蛇的头。救赎的故事，就此展开。"
       }
     }
   },
   {
-    "id": "abraham",
+    "id": "genesis_flood_babel",
+    "period": "Genesis",
+    "range": "Noah to Babel",
+    "location": {
+      "en": "From Ararat to Shinar",
+      "zh": "亚拉腊山 → 示拿平原"
+    },
+    "content": {
+      "en": {
+        "title": "The Flood and the Scattering at Babel",
+        "headline": "God judges widespread evil with a flood and later scatters proud humanity at Babel.",
+        "summary": "As violence fills the earth, God preserves Noah and his family through a global flood and makes a covenant never again to destroy the earth by water, marked by the rainbow. Later, at Babel, people unite in pride to make a name for themselves, so God confuses their languages and scatters them over the earth.",
+        "takeaways": [
+          "God takes human evil seriously and responds with righteous judgment.",
+          "Even in judgment, God preserves a remnant and renews His covenant.",
+          "The scattering at Babel explains diverse nations and warns against human pride."
+        ],
+        "scripture": [
+          "Genesis 6:5-8",
+          "Genesis 9:12-13",
+          "Genesis 11:4-9"
+        ],
+        "detail": "Generations after Eden, the world grew violent and corrupt. Every thought of humanity was evil. God grieved over His creation but found favor in Noah, a man who walked with Him. By divine command, Noah built an ark as judgment approached. When the rains came, the earth was cleansed by water, and only Noah’s family and the animals aboard survived. After the flood, God set a rainbow in the sky—a covenant that the world would never again be destroyed by water. Yet pride soon returned. At Babel, people sought to build a tower to heaven, to make a name for themselves apart from God. The Lord confused their language and scattered them, reminding humanity that unity without obedience leads only to ruin."
+      },
+      "zh": {
+        "title": "洪水与巴别塔分散",
+        "headline": "上帝借洪水审判极大的罪恶，也在巴别塔分散骄傲的人类。",
+        "summary": "当暴力与败坏充满大地时，上帝拣选挪亚一家，借全球性的洪水审判罪恶，并与挪亚立约，赐下彩虹为记号，表明不再用洪水毁灭世界。后来，人类在巴别塔联手要为自己立名，上帝便变乱他们的口音，使他们分散在全地。",
+        "takeaways": [
+          "上帝绝不轻看人类的邪恶，也必施行公义的审判。",
+          "在审判之中，上帝仍保留余民，并更新祂的盟约。",
+          "巴别塔的分散提醒人，人类的骄傲终会被挫败。"
+        ],
+        "scripture": [
+          "创世记 6:5-8",
+          "创世记 9:12-13",
+          "创世记 11:4-9"
+        ],
+        "detail": "时光流逝，人类的罪恶在地上蔓延。暴力与腐败使神忧伤。祂在审判中仍存怜悯——拣选了义人挪亚，吩咐他建造方舟。洪水降下时，世界被洗净，唯有方舟中的生命得以延续。洪水过后，神以彩虹立约，宣告祂不再以水毁灭世界。但人心又一次骄傲，在示拿平原上筑起巴别塔，想为自己立名。神变乱他们的语言，使他们分散在全地。祂的旨意仍在进行——人无法靠己登天，唯有顺服才能得真正的合一。"
+      }
+    }
+  },
+  {
+    "id": "genesis_abraham",
     "period": "Patriarchs",
-    "range": "ca. 2100 BC",
+    "range": "Call of Abram (ca. 2100 BC)",
     "location": {
       "en": "Ur → Canaan",
       "zh": "吾珥 → 迦南"
@@ -53,379 +96,477 @@
     "content": {
       "en": {
         "title": "Call of Abram and the Covenant Promise",
-        "headline": "God elects Abram and promises blessing for all nations through his family.",
-        "summary": "Abram is invited to leave his homeland and trust God's promise of land, offspring, and blessing. The covenant with Abram marks the beginning of God's redemptive people.",
-        "detail": "Responding to God's voice, Abram leaves Ur for an unknown land, building altars as he journeyed through Canaan. God cuts a covenant, walking between divided animals to guarantee His oath, later sealing the promise with circumcision. Even amid detours in Egypt and doubts about an heir, God reaffirms that Abram's descendants will be as numerous as the stars, and through them every nation will encounter divine blessing.",
+        "headline": "God calls Abram to leave his homeland and promises land, offspring, and blessing for all nations.",
+        "summary": "God calls Abram out of Mesopotamia, promising to make him into a great nation, give his descendants the land of Canaan, and bless all families of the earth through him. God confirms this with covenant ceremonies and the sign of circumcision, forming the foundation of Israel’s identity.",
         "takeaways": [
-          "Faith responds to God's voice even when the destination is unknown.",
-          "God's mission has always envisioned the blessing of every nation.",
-          "Covenant relationship binds God and His people in steadfast love."
+          "Faith means trusting God’s word enough to leave security behind.",
+          "God’s plan from the start is to bless all nations through one chosen family.",
+          "Covenant is God’s binding commitment to His people in love and faithfulness."
         ],
         "scripture": [
           "Genesis 12:1-3",
           "Genesis 15:5-6",
-          "Genesis 17:1-8"
-        ]
+          "Genesis 17:7-8"
+        ],
+        "detail": "From the city of Ur, God called Abram to leave all he knew and journey to a land unseen. With only a promise to guide him, Abram obeyed, trusting the God who said, 'I will bless you, and through you all nations will be blessed.' Through famine, failure, and long years of waiting, Abram learned faith step by step. When his strength faded, God reaffirmed His word through covenant and the sign of circumcision. Though Abram stumbled, God remained steadfast, shaping him into Abraham—the father of faith—and setting the foundation for the people through whom salvation would come."
       },
       "zh": {
         "title": "亚伯兰的呼召与盟约应许",
-        "headline": "上帝拣选亚伯兰，透过他的家族赐福万国。",
-        "summary": "亚伯兰被呼召离开本地本族，相信上帝关于土地、后裔与祝福的应许。与亚伯兰所立的约，标志着上帝救赎群体的起头。",
-        "detail": "亚伯兰因信而离开吾珥，迁徙至迦南，在途中筑坛敬拜，纪念神的带领。神与他立约，在裂开的牲畜之间经过，表明祂亲自担保誓言，后来以割礼作为盟约记号。虽然亚伯兰在埃及的失误与对子嗣的疑惑显出软弱，神仍一次次重复应许：他的后裔将如星星般众多，借着他的家族，万国都要得福。",
+        "headline": "上帝呼召亚伯兰离开本地本族，赐下土地、后裔与万国得福的应许。",
+        "summary": "上帝在美索不达米亚呼召亚伯兰，叫他离开本地本族，往祂所指示之地去，并应许要使他成为大国，将迦南地赐给他的后裔，又借他的后裔赐福地上的万族。神以立约仪式和割礼为记，坚立以色列民族的根基。",
         "takeaways": [
-          "信心是回应上帝的呼召，即便前路未明也愿意踏上旅程。",
-          "上帝的使命从起初就指向万国得福。",
-          "盟约关系使上帝与祂的子民连结于永不止息的慈爱。"
+          "信心就是愿意倚靠上帝的话，哪怕要离开熟悉的安全区。",
+          "上帝从起初的心意，就是借一支被拣选的家族祝福万国。",
+          "盟约是上帝向祂子民所立不改变的慈爱承诺。"
         ],
         "scripture": [
           "创世记 12:1-3",
           "创世记 15:5-6",
-          "创世记 17:1-8"
-        ]
+          "创世记 17:7-8"
+        ],
+        "detail": "在远方的吾珥，神呼召亚伯兰离开故乡与亲族，去往一个未曾见过的应许之地。祂对他说：“我要赐福给你，使你成为大国，地上的万族都要因你得福。”亚伯兰凭信而行，穿越旷野、饥荒与岁月的等待。他曾软弱、怀疑，但神一次又一次重申祂的应许，用立约和割礼印证不变的信实。这位信心之父的旅程，成为救恩计划的起点——神要借一人，使万国蒙福。"
       }
     }
   },
   {
-    "id": "exodus",
-    "period": "Exodus & Wilderness",
-    "range": "ca. 1446 BC",
+    "id": "genesis_isaac_jacob",
+    "period": "Patriarchs",
+    "range": "Isaac and Jacob",
     "location": {
-      "en": "Egypt → Sinai",
-      "zh": "埃及 → 西奈"
+      "en": "Canaan",
+      "zh": "迦南地"
     },
     "content": {
       "en": {
-        "title": "Exodus and the Sinai Covenant",
-        "headline": "The Lord redeems Israel from slavery and forms them into a covenant nation at Sinai.",
-        "summary": "Through mighty signs, God delivers Israel from Pharaoh, leading them through the sea and into freedom. At Sinai, He reveals His law and establishes a covenant identity centred on worship and justice.",
-        "detail": "The Exodus story traces God's compassion as He hears Israel's groans, commissions Moses, and unleashes ten plagues that expose Egypt's powerless gods. Passing through the Red Sea, Israel witnesses Yahweh fight for them. At Sinai the mountain trembles with fire and cloud while Israel hears the Ten Words, receives tabernacle blueprints, and learns to live as a kingdom of priests—though the golden calf episode shows how fragile their devotion will be.",
+        "title": "Isaac’s Birth, Jacob’s Calling, and the Promise Renewed",
+        "headline": "God continues Abraham’s promise through Isaac and Jacob, the forefather of Israel’s tribes.",
+        "summary": "God miraculously gives Isaac to Abraham and Sarah in their old age and later tests Abraham by asking him to offer Isaac, reaffirming His covenant. Isaac’s sons Esau and Jacob struggle over birthright and blessing, yet God chooses Jacob. Through encounters at Bethel and Jabbok, Jacob is transformed and renamed Israel, becoming father of the twelve tribes.",
         "takeaways": [
-          "Salvation is liberation into a new way of life with God.",
-          "The law reveals God's character and guides redeemed community.",
-          "God's presence among His people is the heart of the covenant."
+          "God’s promises are carried forward through generations by His choice, not human merit.",
+          "Moments of testing deepen trust in God’s faithfulness.",
+          "God can transform deceivers into people who cling to Him and receive a new identity."
+        ],
+        "scripture": [
+          "Genesis 21:1-3",
+          "Genesis 22:16-18",
+          "Genesis 28:12-15",
+          "Genesis 32:27-28"
+        ],
+        "detail": "Isaac was born to Abraham and Sarah in their old age—a living miracle, proof of God’s faithfulness. Years later, Abraham’s faith was tested as God asked him to offer Isaac, his beloved son. At the last moment, God provided a ram, revealing that He would one day provide the true sacrifice. Isaac’s son Jacob, unlike his father, was cunning and restless. He deceived his brother Esau and fled for his life. Yet in exile, Jacob met the God of his fathers. At Bethel, he dreamed of a ladder reaching to heaven; at Jabbok, he wrestled with God and received a new name—Israel. From that struggle came transformation: the deceiver became one who clung to God for blessing. From his twelve sons would come the tribes of a nation."
+      },
+      "zh": {
+        "title": "以撒的出生、雅各的蒙召与应许的延续",
+        "headline": "上帝借以撒和雅各延续亚伯拉罕的应许，使雅各成为以色列十二支派之父。",
+        "summary": "上帝在亚伯拉罕与撒拉年老时赐下以撒，又借“献以撒”试验亚伯拉罕的信心，并再次坚立祂的盟约。以撒的儿子以扫和雅各为长子名分与祝福相争，但上帝拣选雅各。雅各在伯特利见天梯异梦，在雅博渡口与神摔跤被改名为“以色列”，从抓夺的人变成紧紧依靠神的人，成为十二支派的祖先。",
+        "takeaways": [
+          "上帝的应许是跨世代延续的，成就在祂的拣选中，不在人的功劳。",
+          "信心的试炼使人更深经历上帝的信实与供应。",
+          "神能改变诡诈的人，使他成为抓住神、领受新身份的人。"
+        ],
+        "scripture": [
+          "创世记 21:1-3",
+          "创世记 22:16-18",
+          "创世记 28:12-15",
+          "创世记 32:27-28"
+        ],
+        "detail": "多年之后，年老的亚伯拉罕与撒拉迎来奇迹之子——以撒。他是神信实的印记，也是未来民族的希望。神后来试验亚伯拉罕，要他献上以撒；在山上，神预备了一只羊羔，取代了儿子的生命。那一刻，神显明祂将来要亲自预备真正的赎罪祭。以撒的儿子雅各诡诈多计，为得祝福欺骗兄长以扫，却在流亡中遇见神。他在伯特利梦见天梯，天与地相通；在雅博渡口与神摔跤，被赐名“以色列”。那夜过后，他不再是逃避的人，而成为紧抓神、蒙恩的新造之人。"
+      }
+    }
+  },
+  {
+    "id": "genesis_joseph_egypt",
+    "period": "Patriarchs",
+    "range": "Joseph and Descent into Egypt",
+    "location": {
+      "en": "Canaan → Egypt",
+      "zh": "迦南 → 埃及"
+    },
+    "content": {
+      "en": {
+        "title": "Joseph’s Suffering, Rise in Egypt, and Israel’s Migration",
+        "headline": "God works through Joseph’s trials to preserve many lives and bring Israel into Egypt.",
+        "summary": "Joseph, Jacob’s beloved son, is sold into slavery by his jealous brothers and taken to Egypt. After years of injustice and imprisonment, God exalts him to be Pharaoh’s second-in-command through his God-given ability to interpret dreams. During a severe famine, Joseph’s wisdom saves many, and his family comes to Egypt for food. In a moving reconciliation, Joseph forgives his brothers, and Jacob’s whole household settles in Goshen.",
+        "takeaways": [
+          "God can turn human evil into instruments of salvation.",
+          "Faithfulness in hidden suffering prepares people for greater responsibility.",
+          "Israel’s move to Egypt sets the stage for both oppression and future deliverance."
+        ],
+        "scripture": [
+          "Genesis 37:3-4",
+          "Genesis 45:4-8",
+          "Genesis 50:20"
+        ],
+        "detail": "Joseph, the favored son of Jacob, dreamed of greatness. His brothers, consumed by jealousy, sold him into slavery. In Egypt, Joseph was wronged, imprisoned, and forgotten—yet God was with him. Through divine wisdom, Joseph rose to become Pharaoh’s trusted ruler, managing the land during years of plenty and famine. When his brothers came seeking food, Joseph recognized them but hid his identity until repentance blossomed. Tears and forgiveness followed. 'You meant it for evil,' he said, 'but God meant it for good.' Thus Israel’s family found refuge in Egypt, where God’s plan would continue through both suffering and salvation."
+      },
+      "zh": {
+        "title": "约瑟的受苦、高升与以色列全家下埃及",
+        "headline": "上帝借约瑟所受的苦难保存许多人的性命，并带领以色列家迁到埃及。",
+        "summary": "雅各所爱的儿子约瑟因哥哥的嫉妒被卖到埃及做奴隶，又被诬告下在监里。但上帝与他同在，赐他解梦的智慧，使他从囚犯被高举为法老之下的宰相。大饥荒临到时，约瑟的筹划保全许多性命，他的哥哥们来埃及买粮，最终与他和好。雅各全家迁到埃及的歌珊地居住，这既是拯救，也是日后出埃及故事的起点。",
+        "takeaways": [
+          "上帝能把人的恶意翻转成为拯救的工具。",
+          "在隐秘的受苦中持守忠心，是上帝预备人承担更大托付的方式。",
+          "以色列家下到埃及，为将来的奴役与大拯救铺下历史背景。"
+        ],
+        "scripture": [
+          "创世记 37:3-4",
+          "创世记 45:4-8",
+          "创世记 50:20"
+        ],
+        "detail": "雅各所爱的儿子约瑟，少年时做了异梦，梦见兄长向他下拜。嫉妒在他们心中滋长，约瑟被卖为奴，漂泊到埃及。在那里，他被诬陷、下狱，却在神的手中被炼净。神赐他智慧解梦，使他从囚徒升为宰相，治理埃及的大饥荒。当饥荒蔓延，他的兄弟前来求粮，不知面前的人正是他们的弟弟。在泪水与饶恕中，约瑟说：“你们的意思是要害我，但神的意思原是好的。”于是以色列全家迁居埃及，在异乡得保存，也为日后的拯救铺下伏笔。"
+      }
+    }
+  },
+  {
+    "id": "exodus_moses_call_and_plagues",
+    "period": "Exodus",
+    "range": "Call of Moses and Ten Plagues (ca. 15th–13th c. BC)",
+    "location": {
+      "en": "Egypt",
+      "zh": "埃及"
+    },
+    "content": {
+      "en": {
+        "title": "Call of Moses and God’s Judgment on Egypt",
+        "headline": "God raises Moses to confront Pharaoh, sending plagues to free His people from slavery.",
+        "summary": "Centuries after Joseph, Israel is enslaved in Egypt under a harsh Pharaoh. God appears to Moses in the burning bush, reveals His covenant name, and sends him to demand Israel’s release. Pharaoh hardens his heart, so God brings ten devastating plagues, climaxing in the death of the firstborn and the institution of the Passover, leading to Israel’s liberation.",
+        "takeaways": [
+          "God hears the cries of the oppressed and acts in His time.",
+          "God’s name “I AM” reveals His eternal, self-existent nature.",
+          "The Passover lamb points ahead to a greater deliverance through sacrificial blood."
         ],
         "scripture": [
           "Exodus 3:7-10",
-          "Exodus 14:21-22",
-          "Exodus 19:4-6"
-        ]
+          "Exodus 3:13-14",
+          "Exodus 12:12-14"
+        ],
+        "detail": "Centuries later, Israel groaned under Egyptian slavery. God heard their cries and remembered His covenant. He appeared to Moses in the burning bush and revealed His eternal name: 'I AM WHO I AM.' Though hesitant, Moses obeyed and confronted Pharaoh with God’s demand: 'Let My people go.' When Pharaoh hardened his heart, God unleashed ten plagues—each striking at Egypt’s false gods. From the Nile turned to blood to the death of the firstborn, Egypt was brought to its knees. That night, the Passover lamb’s blood marked the homes of Israel, and death passed over them. At last, Pharaoh relented, and the God of Abraham proved Himself Redeemer."
       },
       "zh": {
-        "title": "出埃及与西奈之约",
-        "headline": "耶和华拯救以色列脱离奴役，并在西奈山建立盟约之民。",
-        "summary": "上帝借着大能神迹使以色列人脱离法老，领他们经过红海进入自由。在西奈山，神赐下律法，建立以敬拜与公义为核心的盟约身份。",
-        "detail": "出埃及的故事显示神聆听百姓的哀声，差遣摩西回埃及，降下十灾击打法老，显明埃及诸神的无力。红海分开之时，以色列亲眼看见耶和华为他们争战。到了西奈山，火焰与浓云笼罩山顶，神赐下十诫与会幕蓝图，呼召以色列成为祭司的国度；然而金牛犊事件也揭示他们的心易于偏离。",
+        "title": "摩西蒙召与上帝借十灾审判埃及",
+        "headline": "上帝兴起摩西对抗法老，借十灾拯救祂的百姓脱离奴役。",
+        "summary": "约瑟之后几百年，以色列人在埃及被新王奴役，苦不堪言。上帝在何烈山荆棘火焰中向摩西显现，启示自己的名“我是自有永有的”，差他去见法老，要求释放以色列人。法老屡次刚硬，上帝便降下十灾，最后以长子之死与逾越节的设立为高潮，使以色列人得以离开埃及。",
         "takeaways": [
-          "拯救意味着进入与神同行的新生活方式。",
-          "律法显明上帝的品格，引导蒙救赎的群体生活。",
-          "神与百姓同住是盟约的核心。"
+          "上帝垂听受压迫者的呼声，却按自己的时间与方式行动。",
+          "上帝的名“我是自有永有的”启示祂永恒、自存不变的本性。",
+          "逾越节的羔羊预表更大的拯救，借着代赎的血使人脱离死亡。"
         ],
         "scripture": [
           "出埃及记 3:7-10",
+          "出埃及记 3:13-14",
+          "出埃及记 12:12-14"
+        ],
+        "detail": "时光流转，约瑟之后，新的法老不再认识以色列。他们被奴役，呻吟在苦工中。神听见他们的哀求，在旷野的荆棘火焰中向摩西显现。祂启示自己的名：“我是自有永有的。”摩西犹豫、惧怕，但神应许与他同在。他回到埃及，对法老宣告：“让我的百姓去！”法老心硬，神便降下十灾——从血河到黑暗，直到长子之死。那一夜，门框上的羔羊之血使死亡越过以色列家。黎明时，锁链断开，神的子民终于被释放。"
+      }
+    }
+  },
+  {
+    "id": "exodus_red_sea_and_sinai",
+    "period": "Exodus & Wilderness",
+    "range": "Red Sea Crossing and Sinai Covenant",
+    "location": {
+      "en": "Red Sea → Mount Sinai",
+      "zh": "红海 → 西奈山"
+    },
+    "content": {
+      "en": {
+        "title": "Red Sea Deliverance and the Covenant at Sinai",
+        "headline": "God parts the sea to save Israel and forms them into His covenant people at Sinai.",
+        "summary": "After leaving Egypt, Israel is trapped between Pharaoh’s army and the sea. God miraculously parts the waters, leading Israel through on dry ground and defeating the Egyptians. At Mount Sinai, God declares that Israel will be His treasured possession, gives the Ten Commandments, and establishes a covenant rooted in worship and obedience.",
+        "takeaways": [
+          "Salvation involves both rescue from bondage and calling into a new way of life.",
+          "The Ten Commandments reveal God’s character and shape communal holiness.",
+          "Israel’s identity is grounded in being God’s treasured people, not in their power."
+        ],
+        "scripture": [
+          "Exodus 14:21-22",
+          "Exodus 15:1-2",
+          "Exodus 19:4-6",
+          "Exodus 20:1-3"
+        ],
+        "detail": "Freed from bondage, Israel journeyed toward the sea, only to see Pharaoh’s army in pursuit. Fear gripped them, but Moses declared, 'The Lord will fight for you!' God parted the Red Sea, and His people crossed on dry ground as walls of water rose beside them. When Egypt followed, the sea returned and swallowed their enemies. At Sinai, God descended in fire and thunder, declaring His covenant: Israel would be His treasured possession if they obeyed His commands. The Ten Commandments became the heartbeat of their identity—a holy people for a holy God."
+      },
+      "zh": {
+        "title": "红海大拯救与西奈山之约",
+        "headline": "上帝分开红海拯救以色列，又在西奈山立约使他们成为属祂的子民。",
+        "summary": "以色列人出埃及后被困在法老军队与红海之间，上帝大能伸手分开海水，使他们走干地而过，并淹没追赶的埃及军兵。随后他们来到西奈山，上帝宣告以色列要作祂的子民与祭司的国度，赐下十诫和律法，以敬拜与顺服来建立盟约关系。",
+        "takeaways": [
+          "拯救不仅是脱离捆绑，也是进入与神同在的新生活方式。",
+          "十诫显明上帝的性情，引导百姓在群体中活出圣洁与公义。",
+          "以色列的身份根基不在自己的力量，而在成为神所宝贵的子民。"
+        ],
+        "scripture": [
           "出埃及记 14:21-22",
-          "出埃及记 19:4-6"
-        ]
+          "出埃及记 15:1-2",
+          "出埃及记 19:4-6",
+          "出埃及记 20:1-3"
+        ],
+        "detail": "以色列人离开埃及时，法老的军队紧追不舍。前方是红海，后方是兵车。摩西高举杖，海水分开成墙，百姓走干地而过。当埃及军进入，海浪复合，将敌人吞没。他们在海边歌唱：“耶和华是我的力量、我的诗歌！”在西奈山，神降临在火焰与雷声中。祂宣告：“你们要作我的子民，我要作你们的神。”十诫被刻在石版上，成为他们立国的根基。从奴役到立约，他们的身份被重新定义——成为神的圣民。"
       }
     }
   },
   {
-    "id": "kingdom",
-    "period": "United Monarchy",
-    "range": "ca. 1050-930 BC",
+    "id": "exodus_tabernacle",
+    "period": "Exodus",
+    "range": "Tabernacle Instructions and Completion",
     "location": {
-      "en": "Jerusalem",
-      "zh": "耶路撒冷"
+      "en": "Mount Sinai Camp",
+      "zh": "西奈山营地"
     },
     "content": {
       "en": {
-        "title": "Davidic Kingdom and Worship",
-        "headline": "God establishes David's throne and centres Israel's worship in Jerusalem.",
-        "summary": "Israel unites under David, who captures Jerusalem and brings the ark into the city. God promises an enduring dynasty, while David prepares for Solomon to build the temple.",
-        "detail": "After years of tribal tensions, David becomes king over all Israel, securing Jerusalem as the political and worship center. The ark's joyful procession brings God's presence to Zion, and David's covenant receives the promise of a son whose throne will endure forever. Despite David's failures, his psalms model repentance and shepherd leadership, while preparations for the temple lay the groundwork for his son Solomon to dedicate a house for the Lord.",
+        "title": "The Tabernacle and God’s Dwelling Among His People",
+        "headline": "God provides a holy dwelling place so He can live in the midst of Israel.",
+        "summary": "God gives Moses detailed instructions for building the tabernacle, its furnishings, and priestly garments, so that He may dwell among His people. Despite the sin of the golden calf, the people repent and generously contribute. When the work is finished, God’s glory fills the tabernacle, and the cloud and fire lead Israel on their journey.",
         "takeaways": [
-          "Leadership after God's heart shepherds people toward worship.",
-          "The Davidic covenant fuels hope for a righteous eternal King.",
-          "True security flows from God's presence, not military strength."
+          "God desires to dwell among His people, not remain distant.",
+          "Worship involves both careful obedience and generous offering.",
+          "The tabernacle foreshadows Christ as God’s true dwelling with humanity."
         ],
         "scripture": [
-          "2 Samuel 7:12-16",
-          "Psalm 23",
-          "Psalm 132:13-18"
-        ]
+          "Exodus 25:8-9",
+          "Exodus 32:7-8",
+          "Exodus 40:34-38"
+        ],
+        "detail": "At Sinai’s base, while Moses communed with God, the people grew impatient and crafted a golden calf. Their rebellion nearly destroyed them, but Moses interceded, and God renewed His covenant. Then came the command to build a dwelling for His glory—a tabernacle in the midst of His people. Men and women brought offerings of gold, silver, and fabric; skilled hands built what God designed. When the last piece was finished, a cloud filled the tent and fire rested above it. God, the Creator of heaven and earth, had chosen to dwell among His redeemed people."
       },
       "zh": {
-        "title": "大卫王国与敬拜中心",
-        "headline": "上帝坚定大卫的王位，使以色列的敬拜以耶路撒冷为中心。",
-        "summary": "以色列在大卫手下统一，他攻取耶路撒冷并迎接约柜进入圣城。神应许赐下永远的王朝，大卫也预备所罗门建造圣殿。",
-        "detail": "历经支派纷争，大卫终于成为全以色列的王，他攻取耶路撒冷作为国度与敬拜的中心。迎接约柜入城时，百姓欢呼赞美，象征神的同在住在锡安。耶和华与大卫立约，承诺他的后裔要永远坐王。虽然大卫仍有软弱与犯错，他的诗篇呈现悔改与牧者式领导，同时为圣殿筹备材料，等待所罗门竣工奉献。",
+        "title": "会幕与神住在百姓中间",
+        "headline": "上帝赐下会幕，使祂的同在在以色列中间得以显明。",
+        "summary": "上帝在西奈山向摩西详细启示会幕的结构、器具与祭司的服饰，好叫祂可以住在百姓中间。虽然百姓拜金牛犊犯罪，但在摩西代求与悔改之后，他们甘心奉献材料建造会幕。工程完成时，耶和华的荣光充满会幕，云柱、火柱引导他们在旷野前行。",
         "takeaways": [
-          "合乎神心意的领导带领百姓归向敬拜。",
-          "大卫之约成为盼望公义永恒君王的根基。",
-          "真正的安全来自神的同在，而不是军事力量。"
+          "上帝不是远离人群的神，而是乐意与子民同住的神。",
+          "真正的敬拜包含按神话语顺服行事，也包含甘心乐意的奉献。",
+          "会幕预表基督，他是真正“神与人同住”的所在。"
         ],
         "scripture": [
-          "撒母耳记下 7:12-16",
-          "诗篇 23 篇",
-          "诗篇 132:13-18"
-        ]
+          "出埃及记 25:8-9",
+          "出埃及记 32:7-8",
+          "出埃及记 40:34-38"
+        ],
+        "detail": "当摩西在山上领受律法时，百姓因等待焦急，铸造金牛犊拜之。神的怒气燃起，但摩西代求，使他们得以存活。随后神吩咐他们建造会幕，好让祂住在他们中间。百姓甘心奉献，巧匠精心制作；金、银、蓝紫线织成的圣幕渐渐成形。当最后一根帘子挂起，神的荣光充满其中，云彩遮盖，会幕中有火焰闪耀。那是神的宣告——祂愿意与人同住，与他们同行。"
       }
     }
   },
   {
-    "id": "exile",
-    "period": "Exile",
-    "range": "586 BC",
+    "id": "leviticus_holiness",
+    "period": "Leviticus",
+    "range": "Sacrifices and Holiness Code",
     "location": {
-      "en": "Jerusalem → Babylon",
-      "zh": "耶路撒冷 → 巴比伦"
+      "en": "Tabernacle",
+      "zh": "会幕"
     },
     "content": {
       "en": {
-        "title": "Fall of Jerusalem and Babylonian Exile",
-        "headline": "Judah's rebellion leads to Jerusalem's destruction, yet prophetic hope endures.",
-        "summary": "After centuries of idolatry and injustice, Babylon conquers Jerusalem. The temple is destroyed and leaders are exiled. Prophets like Jeremiah and Ezekiel announce both judgment and future restoration.",
-        "detail": "Nebuchadnezzar's armies besiege Jerusalem, burn the temple, and deport the elite to Babylon, fulfilling warnings delivered by prophets for generations. Lamentations gives voice to grief, while Jeremiah's letters urge the exiles to seek the city's welfare and trust God's seventy-year timetable. Ezekiel's visions—wheels within wheels, a valley of dry bones, and a future temple—promise that God's presence will return to a renewed people.",
+        "title": "Sacrifices, Priests, and a Holy Way of Life",
+        "headline": "God teaches Israel how a sinful people can live near a holy God.",
+        "summary": "Leviticus introduces offerings, priestly duties, and laws about clean and unclean, showing how Israel can approach God. The Day of Atonement stands at the center: once a year the high priest enters the Most Holy Place with sacrificial blood, making atonement for the people. God calls Israel to be holy in worship, ethics, and daily life.",
         "takeaways": [
-          "Ignoring God's covenant warnings leads to devastating consequences.",
-          "Even in exile, God remains present and speaks through His prophets.",
-          "Hope of a new covenant arises amid discipline and loss."
+          "Sin creates real barriers between humans and a holy God.",
+          "Sacrifice points to the need for a perfect atonement beyond animals.",
+          "God’s people are called to reflect His holiness in every area of life."
         ],
         "scripture": [
-          "2 Kings 25:8-11",
-          "Jeremiah 29:10-14",
-          "Ezekiel 36:24-28"
-        ]
+          "Leviticus 1:1-4",
+          "Leviticus 16:2-3",
+          "Leviticus 19:2"
+        ],
+        "detail": "With the tabernacle complete, God spoke from within it, teaching Israel how to live near His presence. He gave laws of sacrifice, showing that atonement required innocent blood. Priests were ordained to serve as mediators, and purity laws taught the people to distinguish between clean and unclean. At the heart stood the Day of Atonement: once a year, the high priest entered the Most Holy Place with blood, securing forgiveness for the nation. Through it all, God’s call resounded—'Be holy, for I am holy.'"
       },
       "zh": {
-        "title": "耶路撒冷陷落与被掳",
-        "headline": "犹大背叛盟约导致圣城被毁，但先知仍宣告盼望。",
-        "summary": "在长期的偶像崇拜与不义之后，巴比伦攻陷耶路撒冷。圣殿被毁，领袖被掳。耶利米、以西结等先知在审判中同时宣告复兴的应许。",
-        "detail": "尼布甲尼撒多次围攻耶路撒冷，最终焚毁圣殿，将王族与工匠掳至巴比伦，实现先知多年的警戒。《耶利米哀歌》记录百姓的愁苦，耶利米书信则劝勉被掳者在异地安家，等候神七十年的计划。以西结所见的异象——轮中套轮、枯骨复活、重建圣殿——宣告神同在将回归，新的心与灵会赐给百姓。",
+        "title": "献祭、祭司与圣洁生活",
+        "headline": "上帝教导以色列：有罪之民如何在圣洁的神面前得以亲近。",
+        "summary": "利未记设立各种献祭、祭司的职分，以及洁净与不洁净的条例，使以色列知道如何亲近神并在祂面前生活。全书的中心是大赎罪日，大祭司一年一次进入至圣所，带着祭物的血为百姓遮罪。上帝不断呼召祂的子民，在敬拜、道德与日常生活中都要圣洁。",
         "takeaways": [
-          "无视神的警戒将招致严重后果。",
-          "即使身处被掳之地，神仍与子民同在并发声。",
-          "在管教与失落中，新约的盼望逐渐显明。"
+          "罪会在圣洁的神与人之间造成真实的阻隔。",
+          "动物献祭指向更完全的赎罪，需要一位完美的代赎者。",
+          "神的子民蒙召在生活各方面反映祂的圣洁。"
         ],
         "scripture": [
-          "列王纪下 25:8-11",
-          "耶利米书 29:10-14",
-          "以西结书 36:24-28"
-        ]
+          "利未记 1:1-4",
+          "利未记 16:2-3",
+          "利未记 19:2"
+        ],
+        "detail": "会幕建成后，神从其中发声，教导百姓如何在祂面前生活。祂设立祭祀制度，使罪得以赎；设立祭司职分，使人与神得以相交。洁净与不洁净的条例提醒人：圣洁的神不能被轻慢。每年一次，大祭司进入至圣所，带着血为百姓赎罪。神呼召他们：“你们要圣洁，因为我是圣洁的。”律法不仅规范外在行为，更塑造一个属神的民族，学习在日常中敬畏与顺服。"
       }
     }
   },
   {
-    "id": "return",
-    "period": "Second Temple",
-    "range": "538-444 BC",
+    "id": "numbers_wilderness",
+    "period": "Numbers",
+    "range": "Wilderness Wanderings (40 Years)",
     "location": {
-      "en": "Jerusalem",
-      "zh": "耶路撒冷"
+      "en": "Sinai → Wilderness → Moab",
+      "zh": "西奈 → 旷野 → 摩押平原"
     },
     "content": {
       "en": {
-        "title": "Return from Exile and Temple Rebuilding",
-        "headline": "God stirs hearts to rebuild the temple, renew the covenant, and await Messiah.",
-        "summary": "Persia allows Jewish exiles to return. Under leaders like Zerubbabel, Ezra, and Nehemiah, the temple and Jerusalem's walls are restored, and the people recommit to God’s law.",
-        "detail": "Cyrus's decree opens the way for exiles to return in waves. Zerubbabel and Joshua rebuild the altar and temple foundation despite opposition; the prophets Haggai and Zechariah rekindle courage. Ezra arrives with Torah scrolls, leading national confession, while Nehemiah organizes wall rebuilding with sword and trowel. Covenant renewal ceremonies and the anticipation of a coming anointed ruler keep hope alive in the quieter years that follow.",
+        "title": "Rebellion, Discipline, and God’s Faithfulness in the Wilderness",
+        "headline": "Israel’s unbelief leads to forty years of wandering, yet God preserves a new generation.",
+        "summary": "After being organized as a camp around the tabernacle, Israel sets out toward Canaan but repeatedly complains and rebels. The key turning point comes when twelve spies explore the land and ten spread fear, leading the people to refuse God’s promise. God decrees forty years of wandering until that generation dies, yet He continues to provide, protect, and raise up Joshua and Caleb as faithful leaders.",
         "takeaways": [
-          "God can move empires to fulfil His restorative purposes.",
-          "Community renewal requires both worship and justice.",
-          "Anticipation grows for the promised anointed ruler."
+          "Unbelief and fear can forfeit blessings that God intends to give.",
+          "God’s discipline is severe but aims to form a faithful people.",
+          "Even in failure, God’s promises move forward through those who trust Him."
         ],
         "scripture": [
-          "Ezra 1:1-5",
-          "Nehemiah 8:8-12",
-          "Haggai 2:6-9"
-        ]
+          "Numbers 9:15-17",
+          "Numbers 13:30-31",
+          "Numbers 14:28-31",
+          "Numbers 21:8-9"
+        ],
+        "detail": "From Sinai, Israel set out toward the promised land, guided by God’s cloud and fire. But fear and unbelief soon spread. When twelve spies returned from Canaan, only Joshua and Caleb trusted God’s promise. The people rebelled, refusing to enter the land, and God decreed forty years of wandering until that generation passed away. Even in judgment, He sustained them with manna, water, and victories over enemies. Through discipline and mercy, God prepared a new generation to trust His faithfulness."
       },
       "zh": {
-        "title": "归回与圣殿重建",
-        "headline": "上帝感动人心重建圣殿，更新盟约，等待弥赛亚。",
-        "summary": "波斯允许犹太人归回。所罗巴伯、以斯拉、尼希米等带领民众重建圣殿和城墙，并重新立约遵行神的律法。",
-        "detail": "赛鲁士下诏允许被掳者分批回归。所罗巴伯与约书亚首先重建祭坛与圣殿地基，即便遭遇敌对，哈该与撒迦利亚的预言重新燃起勇气。以斯拉携带律法返回，带领百姓认罪立约；尼希米则组织百姓手持刀剑与泥刀同时建造城墙。立约聚会与对“受膏者”应许的期盼，为之后相对静默的年代存留盼望。",
+        "title": "旷野中的悖逆、管教与神的信实",
+        "headline": "以色列人的不信导致四十年漂流，但上帝仍保守新一代兴起。",
+        "summary": "以色列人在西奈山按支派编组、围绕会幕安营后，启程前往应许之地，却不断发怨言并悖逆。关键转折是在十二探子窥探迦南时，只有约书亚和迦勒鼓励前进，其余的人散布惧怕，使百姓拒绝进入。上帝因此判定那一代人在旷野倒毙，要他们漂流四十年；然而祂仍赐吗哪、保护他们，并保留约书亚和迦勒带领新一代进入那地。",
         "takeaways": [
-          "神能动摇帝国以成就祂复兴的旨意。",
-          "群体的更新需要敬拜与公义并重。",
-          "人们对所应许的受膏者怀抱更深的期待。"
+          "不信与惧怕会让人失去上帝原本要赐的丰富。",
+          "上帝的管教虽然严厉，却是为塑造忠心顺服的子民。",
+          "即便在失败中，上帝的应许仍借着信靠祂的人继续向前。"
         ],
         "scripture": [
-          "以斯拉记 1:1-5",
-          "尼希米记 8:8-12",
-          "哈该书 2:6-9"
-        ]
+          "民数记 9:15-17",
+          "民数记 13:30-31",
+          "民数记 14:28-31",
+          "民数记 21:8-9"
+        ],
+        "detail": "以色列人离开西奈，向应许之地前行。然而他们屡次抱怨、惧怕，不信神的应许。当十二探子窥探迦南时，十人报恶信，唯有约书亚和迦勒说：“我们能上去得那地！”百姓却背叛，神宣告他们要在旷野漂流四十年。即使在管教中，神仍赐吗哪、赐水、保护他们免受敌人侵害。那四十年成为信心的学校，使新一代学会信靠神，不再因惧怕失去祝福。"
       }
     }
   },
   {
-    "id": "birth",
-    "period": "Gospels",
-    "range": "4-1 BC",
+    "id": "deuteronomy_moses_farewell",
+    "period": "Deuteronomy",
+    "range": "Moses’ Farewell and Covenant Renewal",
     "location": {
-      "en": "Bethlehem",
-      "zh": "伯利恒"
+      "en": "Plains of Moab",
+      "zh": "摩押平原"
     },
     "content": {
       "en": {
-        "title": "Birth of Jesus the Messiah",
-        "headline": "The eternal Word becomes flesh, fulfilling centuries of prophetic hope.",
-        "summary": "Jesus is born to Mary in Bethlehem by the Holy Spirit. Angels announce peace, shepherds worship, and Simeon blesses the child as the light for all nations.",
-        "detail": "Luke's nativity account describes Gabriel's visits to Zechariah and Mary, Caesar's census that brings them to Bethlehem, and the humble birth laid in a manger. Heavenly hosts blaze in the sky, proclaiming good news to shepherds. Matthew adds the Magi who follow a star, Herod's rage, and the family's flight to Egypt. Prophecies from Isaiah, Micah, and others converge as the incarnate Word arrives among the lowly.",
+        "title": "Moses’ Final Speeches and Choice of Life",
+        "headline": "Moses reviews God’s works and law, urging Israel to choose life and love the Lord.",
+        "summary": "On the plains of Moab, Moses addresses the new generation, recounting the wilderness journey and restating the law. He calls Israel to love the Lord with all their heart and warns of blessings for obedience and curses for rebellion. Moses appoints Joshua as his successor, sings a prophetic song, blesses the tribes, and dies on Mount Nebo after viewing the promised land from afar.",
         "takeaways": [
-          "God enters human history with humility and glory intertwined.",
-          "Jesus fulfills promises to David and Abraham.",
-          "The incarnation reveals God's nearness to the marginalized."
+          "Remembering God’s past faithfulness strengthens present obedience.",
+          "Love for God is the heart of the law, not just external rule-keeping.",
+          "Each generation must personally choose between life and death, blessing and curse."
         ],
         "scripture": [
-          "Luke 2:10-14",
-          "Luke 2:25-32",
-          "Micah 5:2"
-        ]
+          "Deuteronomy 6:4-5",
+          "Deuteronomy 8:2",
+          "Deuteronomy 30:19-20",
+          "Deuteronomy 34:4-5"
+        ],
+        "detail": "Standing on the plains of Moab, Moses looked across the Jordan to the land he would never enter. Before his death, he gathered the new generation and retold their history—their failures, God’s mercy, and the covenant’s heart: 'Love the Lord your God with all your heart.' Moses warned them of blessing and curse, life and death, urging them to choose life. After blessing the tribes and appointing Joshua as his successor, Moses climbed Mount Nebo, saw the promised land from afar, and died there, a servant who finished his race."
       },
       "zh": {
-        "title": "弥赛亚耶稣的降生",
-        "headline": "永恒的道成了肉身，成就历代先知的盼望。",
-        "summary": "耶稣因圣灵感孕，由马利亚在伯利恒生下。天使宣告大喜的信息，牧人敬拜，西面称这孩子为万民的光。",
-        "detail": "路加记述天使加百列向撒迦利亚与马利亚报信，凯撒的户口调查使他们来到伯利恒，婴孩耶稣诞生在马槽中。天军在夜空中赞美，牧人前来敬拜。马太福音补充东方博士跟随星辰而来，希律王的忌惮与屠婴，以及圣家逃往埃及。以赛亚、弥迦等预言在道成肉身时层层应验。",
+        "title": "摩西的临终嘱托与“拣选生命”的呼召",
+        "headline": "摩西回顾神的作为与律法，劝勉以色列选择生命，全心爱主。",
+        "summary": "在摩押平原，摩西向新一代以色列人发表多篇讲论，回顾四十年旷野道路，并重新颁布律法。他呼吁百姓要尽心尽性尽力爱耶和华，不要忘记神的恩典，说明顺服会带来祝福，悖逆则招致咒诅。摩西设立约书亚为接班人，向各支派祝福，最后在尼波山上远望应许之地后离世。",
         "takeaways": [
-          "上帝进入历史，谦卑与荣耀并行。",
-          "耶稣成全对大卫和亚伯拉罕的应许。",
-          "道成肉身彰显神亲近卑微之人。"
+          "常常记念上帝过去的信实，有助于今日继续顺服祂。",
+          "律法的核心不是外在规条，而是出于内心对上帝的爱。",
+          "每一代人都必须亲自面对选择：是生命还是死亡，是祝福还是咒诅。"
         ],
         "scripture": [
-          "路加福音 2:10-14",
-          "路加福音 2:25-32",
-          "弥迦书 5:2"
-        ]
+          "申命记 6:4-5",
+          "申命记 8:2",
+          "申命记 30:19-20",
+          "申命记 34:4-5"
+        ],
+        "detail": "在摩押平原，摩西站在约旦河东，眺望那流奶与蜜之地。他知道自己不能进去，但仍满怀温柔与盼望，向新一代重述神的律法与恩典。他劝勉他们：“要尽心、尽性、尽力爱耶和华你的神。”他摆在他们面前两个选择——生命与死亡，祝福与咒诅。摩西祝福众支派，立约书亚为继任者。最后，他登上尼波山，远望应许之地，在神的怀抱中安然离世。一代领袖的使命结束，新的篇章即将展开。"
       }
     }
   },
   {
-    "id": "ministry",
-    "period": "Gospels",
-    "range": "AD 27-30",
+    "id": "joshua_conquest",
+    "period": "Joshua",
+    "range": "Conquest of Canaan",
     "location": {
-      "en": "Galilee & Judea",
-      "zh": "加利利与犹太"
+      "en": "Jordan → Jericho → Canaan",
+      "zh": "约旦河 → 耶利哥 → 迦南地"
     },
     "content": {
       "en": {
-        "title": "Jesus Announces the Kingdom of God",
-        "headline": "Through teaching, miracles, and compassion, Jesus reveals the kingdom breaking in.",
-        "summary": "Jesus proclaims the kingdom, heals the sick, forgives sins, and forms disciples. His parables and Sermon on the Mount unveil the ethics of a renewed humanity.",
-        "detail": "Beginning in Galilee, Jesus preaches repentance, gathers disciples, calms storms, feeds crowds, and confronts spiritual darkness. He reinterprets Torah on the Mount, unveils the kingdom through parables, and shares meals with the marginalized. In Judea, He raises Lazarus, rides into Jerusalem on a donkey, and debates religious leaders, revealing a kingdom that overturns expectations through servanthood and self-giving love.",
+        "title": "Crossing the Jordan and Conquest of the Land",
+        "headline": "Under Joshua, God leads Israel into Canaan, giving victory as they trust Him.",
+        "summary": "After Moses’ death, Joshua leads Israel across the Jordan River, which God miraculously stops. The people are circumcised and celebrate Passover, marking a fresh start. God gives victory over Jericho through unusual instructions and later over many kings in the south and north. Despite failures like Achan’s sin, the overall story shows God fighting for Israel as they walk in obedience.",
         "takeaways": [
-          "The kingdom is present wherever Jesus reigns and restores.",
-          "Following Jesus means embodying upside-down kingdom values.",
-          "Miracles serve as signs pointing to deeper spiritual renewal."
+          "God’s presence, not human strength, is the key to victory.",
+          "Obedience—even when God’s commands seem strange—opens the way for His power.",
+          "Entering the land fulfills ancient promises made to Abraham, Isaac, and Jacob."
         ],
         "scripture": [
-          "Mark 1:14-15",
-          "Matthew 5:1-10",
-          "Luke 4:18-19"
-        ]
+          "Joshua 1:6-9",
+          "Joshua 3:14-17",
+          "Joshua 6:2-5",
+          "Joshua 10:11-14"
+        ],
+        "detail": "After Moses’ death, God strengthened Joshua: 'Be strong and courageous.' The Jordan River stopped flowing as the priests stepped in, and Israel crossed into Canaan. At Jericho, they marched in silence for six days, then shouted as the walls fell by God’s power. Victory followed across the land—though not without failure when sin entered the camp. Through it all, God proved Himself faithful, fighting for Israel as they obeyed His command."
       },
       "zh": {
-        "title": "耶稣宣告神的国",
-        "headline": "耶稣借着教导、神迹与怜悯显明临到的国度。",
-        "summary": "耶稣宣讲神国福音，医治疾病、赦免罪孽并栽培门徒。祂的比喻与登山宝训揭示更新人性的国度伦理。",
-        "detail": "耶稣在加利利起头，呼召门徒，宣讲悔改，平息风暴，喂饱群众，驱赶污鬼。祂在山上重新阐释律法，用比喻揭开神国的奥秘，与被排斥者同席。到了犹太，耶稣使拉撒路复活，骑驴进耶路撒冷，与宗教领袖辩论，昭示这国度通过服事与舍己的爱颠覆世人的期待。",
+        "title": "过约旦河与迦南征战",
+        "headline": "在约书亚带领下，上帝使以色列进入迦南，并在信靠中赐下得胜。",
+        "summary": "摩西死后，约书亚带领百姓来到约旦河前，上帝使河水止住，以色列人走干地而过，并在吉甲受割礼、守逾越节，象征新的开始。上帝用奇妙的方法使耶利哥城倒塌，又在南北多场战役中赐下胜利。虽然中间有如亚干犯罪的失败，但整体的故事见证：当以色列顺服时，是上帝为他们争战。",
         "takeaways": [
-          "神国临到之处，就是耶稣掌权并带来复原之处。",
-          "跟随耶稣意味着活出颠覆世俗的国度价值。",
-          "神迹是指向深层属灵更新的记号。"
+          "得胜的关键不在人的能力，而在上帝同在与引导。",
+          "即便神的吩咐看起来奇怪，顺服仍为祂的大能敞开道路。",
+          "进入迦南的应验，成就了上帝对亚伯拉罕、以撒、雅各所立的古老应许。"
         ],
         "scripture": [
-          "马可福音 1:14-15",
-          "马太福音 5:1-10",
-          "路加福音 4:18-19"
-        ]
+          "约书亚记 1:6-9",
+          "约书亚记 3:14-17",
+          "约书亚记 6:2-5",
+          "约书亚记 10:11-14"
+        ],
+        "detail": "神对约书亚说：“你当刚强壮胆！”他带领以色列人来到约旦河边，祭司抬约柜入水，河流立起成垒，百姓走干地而过。他们守逾越节，立石为记。在耶利哥前，神命他们绕城七日，第七日号角齐鸣，城墙倒塌。南北多王被击败，应许之地逐渐在他们脚下展开。即便有失败与罪，神仍为祂的百姓争战。这是信靠与顺服的胜利，是神信实的印证。"
       }
     }
   },
   {
-    "id": "cross",
-    "period": "Passion",
-    "range": "AD 30",
+    "id": "joshua_settlement_covenant",
+    "period": "Joshua",
+    "range": "Settlement and Covenant Renewal",
     "location": {
-      "en": "Jerusalem",
-      "zh": "耶路撒冷"
+      "en": "Canaan (Shiloh & Shechem)",
+      "zh": "迦南地（示罗与示剑）"
     },
     "content": {
       "en": {
-        "title": "Crucifixion and Resurrection",
-        "headline": "Jesus bears sin on the cross and rises victorious, defeating death.",
-        "summary": "Jesus dies during Passover, the perfect Lamb offering Himself for humanity. On the third day, He rises, appearing to many witnesses and inaugurating new creation.",
-        "detail": "During Passover week Jesus shares the Last Supper, prays in Gethsemane, and submits to arrest, trials, and Roman crucifixion. Darkness covers the land as He breathes His last, tearing the temple veil. On the third day women discover the empty tomb; angelic messengers announce His resurrection. Jesus appears to Mary, the disciples, and more than five hundred followers, commissioning them before ascending to the Father.",
+        "title": "Division of the Land and Renewal of the Covenant",
+        "headline": "Israel settles in the promised land and reaffirms their commitment to serve the Lord alone.",
+        "summary": "After the main campaigns, Joshua oversees the division of the land among the twelve tribes, establishes cities of refuge and Levitical towns, and confirms that God has kept all His promises. Near the end of his life, Joshua gathers the people at Shechem, recalls God’s faithfulness from Abraham to their day, and calls them to reject idols and serve the Lord wholeheartedly.",
         "takeaways": [
-          "The cross reveals God's justice and love intertwined.",
-          "Resurrection is the cornerstone of Christian hope.",
-          "Believers are invited into a restored relationship with God."
+          "God faithfully brings His people not only into battle but into rest and rootedness.",
+          "Land, justice structures, and worship are all part of living as God’s people.",
+          "Every generation must renew its covenant loyalty and turn from competing gods."
         ],
         "scripture": [
-          "Isaiah 53:4-6",
-          "John 19:30",
-          "1 Corinthians 15:3-6"
-        ]
+          "Joshua 21:43-45",
+          "Joshua 23:14",
+          "Joshua 24:14-15",
+          "Joshua 24:24-26"
+        ],
+        "detail": "With the land subdued, Joshua divided it among the tribes, granting rest as God had promised. Cities of refuge and Levitical towns were established to preserve justice and worship. In his old age, Joshua gathered the people at Shechem, recalling God’s deeds from Abraham to that day. He challenged them: 'Choose this day whom you will serve... but as for me and my house, we will serve the Lord.' The people renewed the covenant, and the story of faithfulness passed to a new generation."
       },
       "zh": {
-        "title": "十字架与复活",
-        "headline": "耶稣担当罪孽被钉十字架，并胜过死亡复活。",
-        "summary": "逾越节期间，耶稣如同无瑕疵的羔羊为世人献上自己。第三日祂从死里复活，向众多见证人显现，开启新创造。",
-        "detail": "逾越节前夕，耶稣设立圣餐，在客西马尼祷告，随后被捕并在犹太与罗马官府受审，最终钉上十字架。黑暗笼罩大地，祂断气的瞬间殿里的幔子裂开。第三日清晨，妇女发现坟墓空了，天使宣告祂已复活。耶稣向马利亚、门徒以及五百多弟兄显现，颁布使命，并升天归父。",
+        "title": "分地安居与重新立约",
+        "headline": "以色列人在应许之地安居，并再次立约宣告只事奉耶和华。",
+        "summary": "主要战役结束后，约书亚带领百姓按支派分配土地，设立逃城与利未城，使公义与敬拜有具体的制度保障。他强调耶和华所应许的一切话没有一句落空。到晚年时，约书亚在示剑聚集众人，回顾从亚伯拉罕到当代的恩典历史，呼吁百姓除掉偶像，专心事奉耶和华。",
         "takeaways": [
-          "十字架显明上帝的公义与慈爱彼此交织。",
-          "复活是基督信仰盼望的基石。",
-          "信徒得以进入与神和好的新关系。"
+          "上帝不只带领子民打胜仗，也带领他们进入安息与扎根之地。",
+          "土地、公义制度与敬拜生活共同构成“作神子民”的实际样式。",
+          "每一代人都需要重新确认对上帝的忠诚，离弃一切竞争的“神”。"
         ],
         "scripture": [
-          "以赛亚书 53:4-6",
-          "约翰福音 19:30",
-          "哥林多前书 15:3-6"
-        ]
-      }
-    }
-  },
-  {
-    "id": "pentecost",
-    "period": "Early Church",
-    "range": "AD 30",
-    "location": {
-      "en": "Jerusalem",
-      "zh": "耶路撒冷"
-    },
-    "content": {
-      "en": {
-        "title": "Pentecost and the Spirit-Empowered Church",
-        "headline": "The Holy Spirit fills believers, launching a global witness to Jesus.",
-        "summary": "On Pentecost, the Spirit descends on the disciples, enabling bold proclamation in many languages. Thousands believe, forming a vibrant community marked by teaching, fellowship, and generosity.",
-        "detail": "Ten days after the ascension, disciples wait in prayer when a rushing wind fills the house and tongues of fire rest on each of them. Empowered to speak diverse languages, they proclaim Jesus to international pilgrims gathered for the feast. Peter's sermon interprets Joel's prophecy and Jesus' resurrection, leading three thousand to respond. The newborn church devotes itself to the apostles' teaching, shared meals, prayer, and radical generosity, while signs and wonders confirm the Spirit's presence.",
-        "takeaways": [
-          "The Spirit empowers the church for mission and unity.",
-          "Church life flourishes through shared worship, care, and witness.",
-          "God's promise extends to every generation and nation."
+          "约书亚记 21:43-45",
+          "约书亚记 23:14",
+          "约书亚记 24:14-15",
+          "约书亚记 24:24-26"
         ],
-        "scripture": [
-          "Acts 2:1-4",
-          "Acts 2:38-39",
-          "Acts 2:42-47"
-        ]
-      },
-      "zh": {
-        "title": "五旬节与圣灵充满的教会",
-        "headline": "圣灵降临门徒，开启向万国作见证的使命。",
-        "summary": "五旬节那天，圣灵降临在门徒身上，使他们用多种语言勇敢传讲。三千人信主，建立以教导、团契与慷慨为标志的活泼群体。",
-        "detail": "升天十日后，门徒在耶路撒冷祷告等候，忽然有大风充满屋子，火舌落在众人头上，他们开始说各国的语言。众多节期旅客听见之后惊讶，彼得引用约珥预言并见证耶稣复活，三千人悔改受洗。初生教会专注于使徒教训、团契、掰饼和祷告，并以慷慨分享与神迹奇事彰显圣灵同在。",
-        "takeaways": [
-          "圣灵赋予教会完成使命并活出合一。",
-          "教会生活在敬拜、关怀与见证中蓬勃发展。",
-          "神的应许临到各世代、各民族。"
-        ],
-        "scripture": [
-          "使徒行传 2:1-4",
-          "使徒行传 2:38-39",
-          "使徒行传 2:42-47"
-        ]
+        "detail": "战事平息，土地分给十二支派。约书亚在示罗设立会幕，设逃城与利未城，使公义与敬拜同存。他年老时召集百姓，在示剑重述神的恩典，从亚伯拉罕到他们今日。他宣告：“今日你们要选择所要事奉的神；至于我和我家，我们必定事奉耶和华。”百姓回应立约，石头为证，誓言传承。那一代人在约书亚在世时仍忠于耶和华，因为他们亲眼看见祂所行的一切奇事。"
       }
     }
   }
