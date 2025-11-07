@@ -47,6 +47,11 @@ type AboutTranslations = {
 type PlaceholderTranslations = {
   comingSoon: string;
   description: string;
+  progressLabel: string;
+  progressDetail: string;
+  prompt: string;
+  notifyCta: string;
+  exploreCta: string;
 };
 
 type UiTranslations = {
@@ -106,7 +111,14 @@ const dictionaries: Record<LanguageKey, Translations> = {
     placeholder: {
       comingSoon: "Coming Soon",
       description:
-        "We are curating rich content for this section. Stay tuned!"
+        "We are curating rich content for this section. Stay tuned!",
+      progressLabel: "Current status",
+      progressDetail:
+        "We are refining layouts, mapping data, and layering interactive details. Early prototypes are under review.",
+      prompt:
+        "Want early access updates? Let us know and we will keep you in the loop.",
+      notifyCta: "Request updates",
+      exploreCta: "Explore the timeline"
     },
     ui: {
       backToTop: "Back to top",
@@ -152,7 +164,12 @@ const dictionaries: Record<LanguageKey, Translations> = {
     },
     placeholder: {
       comingSoon: "敬请期待",
-      description: "这一部分正在准备更多精彩内容，敬请期待！"
+      description: "这一部分正在准备更多精彩内容，敬请期待！",
+      progressLabel: "当前进度",
+      progressDetail: "我们正在完善版式、整理资料并制作互动草图，目前仍在内部打磨阶段。",
+      prompt: "想提前了解上线时间？告诉我们，我们会第一时间通知你。",
+      notifyCta: "获取更新",
+      exploreCta: "返回时间线"
     },
     ui: {
       backToTop: "回到顶部",

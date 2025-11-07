@@ -28,9 +28,11 @@ export function EventDetailView({ event }: EventDetailViewProps) {
             transition={{ duration: 0.6, ease: "easeOut" }}
           >
             <div className="flex flex-wrap items-center gap-3 text-sm text-muted-foreground">
-              <Badge>{event.period}</Badge>
-              <span className="uppercase tracking-widest">{event.range}</span>
-              <span className="text-muted-foreground">•</span>
+              <Badge className="bg-primary/10 text-primary">{event.period}</Badge>
+              <span className="font-medium text-foreground">{event.range}</span>
+              <span aria-hidden className="text-muted-foreground">
+                •
+              </span>
               <span>
                 {event.location[lang] ?? event.location.en}
               </span>
@@ -63,7 +65,7 @@ export function EventDetailView({ event }: EventDetailViewProps) {
               </h2>
               <p className="leading-relaxed text-foreground">{translation.summary}</p>
               <div className="space-y-3">
-                <h3 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
+                <h3 className="text-sm font-semibold tracking-wide text-muted-foreground">
                   {dictionary.timeline.detailHeading}
                 </h3>
                 <p className="leading-relaxed text-foreground sm:text-base">
@@ -71,7 +73,7 @@ export function EventDetailView({ event }: EventDetailViewProps) {
                 </p>
               </div>
               <div className="space-y-4">
-                <h3 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
+                <h3 className="text-sm font-semibold tracking-wide text-muted-foreground">
                   {dictionary.timeline.keyThemes}
                 </h3>
                 <ul className="space-y-3">
@@ -89,7 +91,7 @@ export function EventDetailView({ event }: EventDetailViewProps) {
             </section>
             <aside className="space-y-6">
               <div>
-                <h3 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
+                <h3 className="text-sm font-semibold tracking-wide text-muted-foreground">
                   {dictionary.timeline.scripture}
                 </h3>
                 <ul className="mt-3 space-y-2 text-sm text-primary sm:text-base">

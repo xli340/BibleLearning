@@ -29,13 +29,16 @@ export function ThemeToggle() {
       <DropdownMenuTrigger asChild>
         <Button
           variant="ghost"
-          size="icon"
+          size="sm"
           aria-label={dictionary.theme.label}
-          className="relative"
+          className="relative gap-2 rounded-full px-3"
         >
-          <Sun className="h-[1.2rem] w-[1.2rem] transition-all dark:-rotate-90 dark:scale-0" />
-          <MoonStar className="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
-          <span className="sr-only">{dictionary.theme.label}</span>
+          <Sun className="h-[1.1rem] w-[1.1rem] transition-all dark:-rotate-90 dark:scale-0" />
+          <MoonStar className="absolute h-[1.1rem] w-[1.1rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
+          <span className="hidden text-sm font-medium text-muted-foreground lg:inline">
+            {dictionary.theme.label}
+          </span>
+          <span className="sr-only lg:hidden">{dictionary.theme.label}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent

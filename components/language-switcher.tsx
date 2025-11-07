@@ -18,6 +18,12 @@ import { SUPPORTED_LANGUAGES, type LanguageKey } from "@/lib/i18n";
 export function LanguageSwitcher() {
   const { lang, setLanguage, dictionary } = useLanguage();
 
+  const currentLanguageLabel = React.useMemo(() => {
+    return (
+      SUPPORTED_LANGUAGES.find(({ key }) => key === lang)?.label ?? lang.toUpperCase()
+    );
+  }, [lang]);
+
   const handleSystemDefault = React.useCallback(() => {
     if (typeof navigator === "undefined") {
       setLanguage("en");
@@ -35,10 +41,15 @@ export function LanguageSwitcher() {
       <DropdownMenuTrigger asChild>
         <Button
           variant="ghost"
-          size="icon"
+          size="sm"
           aria-label={dictionary.language.label}
+          className="gap-2 rounded-full px-3"
         >
           <Languages className="h-[1.2rem] w-[1.2rem]" />
+          <span className="hidden text-sm font-medium text-muted-foreground lg:inline">
+            {currentLanguageLabel}
+          </span>
+          <span className="sr-only lg:hidden">{dictionary.language.label}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent

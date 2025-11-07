@@ -43,7 +43,7 @@ export function TimelineExplorer() {
     <section className="relative overflow-hidden py-12 sm:py-16 lg:py-20">
       <BackgroundGlow />
       <div className="container relative">
-        <div className="mx-auto max-w-4xl text-center">
+        <div className="mx-auto max-w-4xl text-center md:text-left">
           <motion.h1
             className="font-display text-3xl font-semibold tracking-tight text-foreground sm:text-4xl lg:text-5xl"
             initial={{ opacity: 0, y: 20 }}
@@ -87,7 +87,7 @@ export function TimelineExplorer() {
                         />
                       </>
                     ) : (
-                      <TimelineLabel event={event} lang={lang} align="left" />
+                      <TimelineLabel event={event} align="left" />
                     )}
                   </div>
 
@@ -112,12 +112,12 @@ export function TimelineExplorer() {
                         />
                       </>
                     ) : (
-                      <TimelineLabel event={event} lang={lang} align="right" />
+                      <TimelineLabel event={event} align="right" />
                     )}
                   </div>
 
                   <div className="mt-4 md:hidden">
-                    <MobileTimelineLabel event={event} lang={lang} />
+                    <MobileTimelineLabel event={event} />
                     <TimelineCard
                       event={event}
                       dictionary={dictionary}
@@ -144,35 +144,23 @@ type TimelineCardProps = {
 
 function TimelineCard({ event, dictionary, lang, align }: TimelineCardProps) {
   const alignmentClass = {
-    left: "items-start md:ml-auto md:items-end",
-    right: "items-start md:mr-auto md:items-start",
+    left: "items-start md:ml-auto",
+    right: "items-start md:mr-auto",
     mobile: "items-start"
   }[align];
 
-  const metaAlignment =
-    align === "left" ? "justify-start md:justify-end" : "justify-start";
-
-  const buttonAlignment =
-    align === "left"
-      ? "md:self-end"
-      : align === "right"
-        ? "md:self-start"
-        : "self-start";
-
-  const shouldUppercase = lang === "en";
+  const buttonAlignment = align === "mobile" ? "self-stretch" : "md:self-start";
 
   return (
     <div
       className={cn(
-        "relative flex max-w-xl flex-col gap-4 rounded-2xl border border-border/70 bg-card/95 p-6 shadow-md backdrop-blur transition hover:-translate-y-1 hover:shadow-xl md:max-w-md",
+        "relative flex max-w-xl flex-col gap-4 rounded-2xl border border-border/70 bg-card/95 p-6 shadow-md backdrop-blur transition hover:-translate-y-1 hover:shadow-lg md:max-w-md",
         alignmentClass
       )}
     >
       <div
         className={cn(
-          "flex flex-wrap items-center gap-2 text-xs font-semibold text-muted-foreground",
-          metaAlignment,
-          shouldUppercase && "uppercase tracking-[0.2em]"
+          "flex flex-wrap items-center gap-2 text-xs font-medium text-muted-foreground"
         )}
       >
         <Badge className="bg-primary/10 text-primary">{event.period}</Badge>
@@ -180,20 +168,20 @@ function TimelineCard({ event, dictionary, lang, align }: TimelineCardProps) {
         <span aria-hidden>•</span>
         <span>{event.location[lang] ?? event.location.en}</span>
       </div>
-      <h3 className="font-display text-2xl font-semibold text-foreground sm:text-3xl text-center">
+      <h3 className="font-display text-2xl font-semibold leading-snug text-foreground sm:text-3xl">
         {event.translation.title}
       </h3>
-      <p className="w-full text-left text-sm leading-relaxed text-muted-foreground sm:text-base">
+      <p className="w-full text-base leading-relaxed text-muted-foreground sm:text-lg">
         {event.translation.summary}
       </p>
       <Button
         asChild
         className={cn(
-          "inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-primary via-accent to-primary shadow-lg shadow-primary/20 transition hover:shadow-primary/30 md:w-auto",
+          "inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary text-primary-foreground shadow-sm hover:bg-primary/90 md:w-auto",
           buttonAlignment
         )}
       >
-        <Link href={`/timeline/${event.id}`} target="_blank" rel="noreferrer">
+        <Link href={`/timeline/${event.id}`}>
           {dictionary.timeline.cta}
           <ChevronRight className="h-4 w-4" />
         </Link>
@@ -204,13 +192,11 @@ function TimelineCard({ event, dictionary, lang, align }: TimelineCardProps) {
 
 type TimelineLabelProps = {
   event: AugmentedEvent;
-  lang: LanguageKey;
   align: "left" | "right";
 };
 
-function TimelineLabel({ event, lang, align }: TimelineLabelProps) {
+function TimelineLabel({ event, align }: TimelineLabelProps) {
   const isRight = align === "right";
-  const isLatin = lang === "en";
 
   return (
     <div
@@ -225,21 +211,11 @@ function TimelineLabel({ event, lang, align }: TimelineLabelProps) {
           isRight ? "left-0" : "right-0"
         )}
       />
-      <div className="rounded-full bg-card/95 px-5 py-2 shadow-md backdrop-blur">
-        <span
-          className={cn(
-            "block text-sm font-semibold text-foreground sm:text-base",
-            isLatin ? "uppercase tracking-[0.2em]" : ""
-          )}
-        >
+      <div className="rounded-2xl bg-card/95 px-5 py-3 text-left shadow-md backdrop-blur">
+        <span className="block text-sm font-semibold text-foreground sm:text-base">
           {event.range}
         </span>
-        <span
-          className={cn(
-            "mt-1 block text-[0.65rem] font-medium text-muted-foreground",
-            isLatin ? "uppercase tracking-[0.3em]" : ""
-          )}
-        >
+        <span className="mt-1 block text-[0.75rem] font-medium text-muted-foreground">
           {event.period}
         </span>
       </div>
@@ -249,28 +225,15 @@ function TimelineLabel({ event, lang, align }: TimelineLabelProps) {
 
 type MobileTimelineLabelProps = {
   event: AugmentedEvent;
-  lang: LanguageKey;
 };
 
-function MobileTimelineLabel({ event, lang }: MobileTimelineLabelProps) {
-  const isLatin = lang === "en";
-
+function MobileTimelineLabel({ event }: MobileTimelineLabelProps) {
   return (
-    <div className="mb-3 flex flex-col rounded-full bg-card/90 px-4 py-2 text-left shadow-sm backdrop-blur">
-      <span
-        className={cn(
-          "text-xs font-semibold text-foreground",
-          isLatin ? "uppercase tracking-[0.2em]" : ""
-        )}
-      >
+    <div className="mb-3 flex flex-col rounded-2xl bg-card/90 px-4 py-3 text-left shadow-sm backdrop-blur">
+      <span className="text-xs font-semibold text-foreground">
         {event.range}
       </span>
-      <span
-        className={cn(
-          "text-[0.65rem] font-medium text-muted-foreground",
-          isLatin ? "uppercase tracking-[0.3em]" : ""
-        )}
-      >
+      <span className="text-[0.75rem] font-medium text-muted-foreground">
         {event.period}
       </span>
     </div>
@@ -283,9 +246,9 @@ function BackgroundGlow() {
       aria-hidden
       className="pointer-events-none absolute inset-0 overflow-hidden"
     >
-      <div className="absolute left-1/2 top-10 h-64 w-64 -translate-x-1/2 rounded-full bg-primary/20 blur-3xl sm:h-80 sm:w-80" />
-      <div className="absolute -left-16 top-1/3 h-48 w-48 rounded-full bg-accent/10 blur-3xl sm:h-64 sm:w-64" />
-      <div className="absolute -right-10 bottom-16 h-56 w-56 rounded-full bg-primary/10 blur-3xl sm:h-72 sm:w-72" />
+      <div className="absolute left-1/2 top-10 h-64 w-64 -translate-x-1/2 rounded-full bg-primary/15 blur-3xl sm:h-80 sm:w-80" />
+      <div className="absolute -left-16 top-1/3 h-48 w-48 rounded-full bg-accent/8 blur-3xl sm:h-64 sm:w-64" />
+      <div className="absolute -right-10 bottom-16 h-56 w-56 rounded-full bg-primary/8 blur-3xl sm:h-72 sm:w-72" />
     </div>
   );
 }
