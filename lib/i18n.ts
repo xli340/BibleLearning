@@ -88,7 +88,7 @@ const dictionaries: Record<LanguageKey, Translations> = {
       system: "System Default"
     },
     timeline: {
-      pageTitle: "Explore the Story of Scripture",
+      pageTitle: "Explore the Events of Scripture",
       pageDescription:
         "Trace the key events of the Bible in chronological order and uncover the narrative thread of redemption.",
       cta: "View Details",
